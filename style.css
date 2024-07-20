@@ -1,0 +1,50 @@
+ /* color and width for h1 */
+ h1{
+    font-weight: 800;
+    font-size: 4em;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* text color for td element */
+.dark-blue{
+    color: blue;
+}
+.dark-green{
+    color: green;
+}
+.orange-text{
+    color: red;
+}
+/* background-color for elements*/
+.orange{
+    background-color: orange;
+}
+.navy-blue{
+    background-color: #49da9f;
+}
+.light-blue{
+    background-color: skyblue;
+}
+.pink{
+    background-color: rgb(238, 159, 172);
+}
+.brown{
+    background-color: #d46a0d;
+}
+.green{
+    background-color: #d5f132;
+}
+.light-brown{
+    background-color: #fe975f;
+}
+/* border for elements */
+.border{
+    border: black 1px solid;
+}
+/* width for td */
+td{
+    width:50px;
+    height: 40px;
+    font-weight: 540;
+    font-size: 1.2em;
+}
